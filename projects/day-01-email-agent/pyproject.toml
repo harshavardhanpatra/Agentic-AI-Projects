@@ -1,0 +1,9 @@
+[project]
+name = "day1-email-triage-agent"
+version = "0.1.0"
+description = "Beginner Strands + Amazon Bedrock + Gmail draft-only agent"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
